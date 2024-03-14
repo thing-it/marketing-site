@@ -41,6 +41,11 @@
 <priority>0.80</priority>
 </url>
 <url>
+<loc>https://www.thing-it.com:443/news</loc>
+<lastmod>2024-03-14T09:58:25+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
 <loc>https://www.thing-it.com:443/communication-info</loc>
 <lastmod>2024-03-04T13:43:40+00:00</lastmod>
 <priority>0.80</priority>
