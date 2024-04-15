@@ -2,397 +2,476 @@
 <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
 <loc>https://www.thing-it.com:443/</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>1.00</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/workplace-experience</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/workplace-experience"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/workplace-experience"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/space-efficiency</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/space-efficiency"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/space-efficiency"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/building-modernization</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/building-modernization"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/building-modernization"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/desk-booking</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/desk-booking"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/desk-booking"/>
 </url>
+<!-- Add hreflang tags for the remaining URLs -->
 <url>
 <loc>https://www.thing-it.com:443/meeting-room</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/meeting-room"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/meeting-room"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/parking-booking</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/parking-booking"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/parking-booking"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/access-control</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.thing-it.com:443/news</loc>
-<lastmod>2024-03-14T09:58:25+00:00</lastmod>
-<priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/access-control"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/access-control"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/communication-info</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/communication-info"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/communication-info"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/indoor-navigation</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+<changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/indoor-navigation"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.thing-it.com/indoor-navigation"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/locker-management</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+  <changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/locker-management"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/locker-management"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/incident-management</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+  <changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/incident-management"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/incident-management"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/catering</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+ <changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/catering"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/catering"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/room-control</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+   <changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/room-control"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/room-control"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/occupancy-analytics</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+    <changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/occupancy-analytics"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/occupancy-analytics"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/digital-signage</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+   <changefreq>weekly</changefreq>
+<xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/digital-signage"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/digital-signage"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/energy-transparency-sustainability</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/energy-transparency-sustainability"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/energy-transparency-sustainability"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/the-company</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/the-company"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/the-company"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/career</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/career"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/career"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/blogs"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/blogs"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/press</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+   <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/press"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/press"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/reports</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/reports"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/reports"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/awards</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/awards"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/awards"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/downloads</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+   <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/downloads"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/downloads"/>
+</url>
+<url>
+<loc>https://www.thing-it.com:443/news</loc>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
+<priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/news"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/news"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/sustainability</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/sustainability"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/sustainability"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/partners</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/partners"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/partners"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/contact-us</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
+<priority>0.80</priority>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/contact-us"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/contact-us"/>
+</url>
+<url>
+<loc>https://www.thing-it.com:443/blogs/smartscore-zertifizierung-fr-gebudedigitalisierung</loc>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
+<priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/blogs/smartscore-zertifizierung-fr-gebudedigitalisierung"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/blogs/smartscore-zertifizierung-fr-gebudedigitalisierung"/>
+</url>
+<url>
+<loc>https://www.thing-it.com:443/blogs/ecovadis</loc>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/hypoport-customer-stories</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/hypoport-customer-stories"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/blogs/hypoport-customer-stories"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/customer-stories</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/customer-stories"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/blogs/customer-stories"/>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/data-protection</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://www.thing-it.com:443/blogs/ecovadis</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/thing-it-ist-iso-27001-zertifiziert</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/imprint</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/contact-us/incident-reporting-and-approval-requests</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/remote-work-can-help-reduce-co2-emissions-by-up-to-70</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://www.thing-it.com:443/blogs/smartscore-zertifizierung-fr-gebudedigitalisierung</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/das-bro-nach-der-pandemie</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/trailblazer-in-the-hybrid-workplace-sector</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/scim-me-up-scotty</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/intelligentes-parkraummanagement</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/bitte-luften</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/regelungstechnik</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/smart-locker</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/smart-metering</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/weshalb-wer-was-womit-wo</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/auswirkungen-der-gebudedigitalisierung-im-nachhaltigen-bau</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/ready-for-retrofit-rollout</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/arbeitgeberpflichten-in-bezug-auf-corona</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/warum-eine-immobilie-eine-turing-maschine-werden-muss</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/willst-du-mit-meinem-gebude-reden</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/pandemie-prvention-zugangssteuerung</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/corona-prvention-jenseits-von-tracing</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/30-standorte-3000-mitarbeiter-in-3-wochen</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/digitalisierung-wer-zahlts-wer-verdient</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/pandemie-prevention-back-to-office</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/scan-it</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/technologie-fr-das-2-meter-bro-6-feet-office</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/blogs/technology-for-the-6-feet-office</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/221109_Thing-it_ist_ISO_27001_zertifiziert.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/211215-PM-Finanzierungrunde-Thing-Technologies.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/211202-PM-ZIA-Office-Award.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/PM-Product-Advisory-Board.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/210521-PM-Deka-Thing-it.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/investment-round-october-2019.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/perpetuum_01_2021_EN.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/bacnet_europe-journal_34_mid.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/gif-im-fokus-20200923.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/iz-apr2020.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/koelner-stadtanzeiger-20191219.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/zia_innovationsbericht_2020.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/Smart-Building-challenge.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/Sustainability-Report-2022-2.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/whitepaper</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/Code-of-Conduct_V2023-10_en-2.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/Code-of-Conduct_V2023-10_de-2-tasf.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/BaumInvest-Certificate-42-tons.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/Carbon-Removal-Certificate-35-tons.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.64</priority>
 </url>
 <url>
 <loc>https://www.thing-it.com:443/s/remote-work-survey-covid-19_en.pdf</loc>
-<lastmod>2024-03-04T13:43:40+00:00</lastmod>
+<lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.51</priority>
 </url>
 </urlset>
