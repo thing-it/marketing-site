@@ -3,7 +3,7 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <!-- Your URLs with xhtml:link tags -->
-</urlset>
+
 
 <url>
 <loc>https://www.thing-it.com:443/</loc>
