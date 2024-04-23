@@ -231,19 +231,20 @@
 <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.thing-it.com:443/hypoport-customer-stories</loc>
+<loc>https://www.thing-it.com:443/success-stories/hypoport</loc>
 <lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
-  <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/hypoport-customer-stories"/>
-<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/blogs/hypoport-customer-stories"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/success-stories/hypoport"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/success-stories/hypoport"/>
 </url>
 <url>
-<loc>https://www.thing-it.com:443/customer-stories</loc>
+<loc>https://www.thing-it.com:443/success-stories</loc>
 <lastmod>2024-04-15T10:26:33+00:00</lastmod>
 <priority>0.80</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/customer-stories"/>
-<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/blogs/customer-stories"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.thing-it.com:443/success-stories"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://en.www.thing-it.com:443/success-stories"/>
 </url>
+        
 <url>
 <loc>https://www.thing-it.com:443/data-protection</loc>
 <lastmod>2024-04-15T10:26:33+00:00</lastmod>
