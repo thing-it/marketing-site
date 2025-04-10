@@ -38,4 +38,11 @@ Disallow:/*&format=ical
 Disallow:/*?reversePaginate=*
 Disallow:/*&reversePaginate=*
 
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Mediapartners-Google
+Allow: /
+
 Sitemap: https://www.thing-it.com/sitemap.xml
